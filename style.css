@@ -1,0 +1,105 @@
+
+
+.bar{
+    background-color: gray ;
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+
+.tital{
+
+    
+}
+
+.input{
+        
+        width: 17%;
+        height: 23px;
+        border: 2px black solid;
+        margin-top: 22px;
+    
+}
+
+.log button{
+    background-color: rgb(43,120,228);
+    margin-top: 22px;
+    color: white;
+    width: 60px;
+    height: 25px;
+}
+
+.main{
+justify-content: center;
+    display: flex;
+    
+}
+
+
+.left{
+    width: 30% ;
+    
+    
+    }
+    
+    .right{
+    
+        width: 20%;
+    
+    }
+    
+
+.one , .two ,.there{
+    border: 1px black solid;
+    margin: 10px;
+
+}
+
+
+.but , .but3{
+    margin-top: 15px;
+    margin-left: 15px;
+    background-color: rgb(255,217,102);
+    color: black;
+    height: 30px;
+    width: 80px;
+    box-shadow: 2px 2px;
+}
+
+.link{
+
+        margin-left:  230px;
+        
+        
+    
+}
+
+.text{
+    
+    margin-left: 20px;
+}
+
+
+
+
+
+
+h2{
+    font-size: large;
+    margin-left:80px;
+}
+
+.buttonadd{
+    display: flex;
+    justify-content: center;
+    margin-left: 75px;
+    height: 30px;
+    width: 120px;
+    box-shadow: 2px 2px;
+    background-color: rgb(119, 188, 119);
+}
+
+
+
+
+
